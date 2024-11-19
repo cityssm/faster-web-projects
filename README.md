@@ -1,13 +1,13 @@
 # FASTER Web Projects
 
-**A list of the City's several projects related to the [FASTER Web fleet management system](https://fasterasset.com/products/fleet-management-software/).**
+**A list of the City's several open source projects related to the [FASTER Web fleet management system](https://fasterasset.com/products/fleet-management-software/).**
 
 _All of these projects are completely unofficial and are in no way affiliated with or endorsed by FASTER Asset Solutions or Transit Technologies._
 
 ## Applications
 
 [**FASTER Web Helper**](https://github.com/cityssm/faster-web-helper)<br />
-A service to support integrations with the FASTER Web fleet management system. 
+A service to support integrations with the FASTER Web fleet management system.
 
 [**Userscripts for FASTER Web**](https://cityssm.github.io/userscripts/#userscripts-for-faster-web)<br />
 Web browser userscripts to help with common irks in FASTER Web.
