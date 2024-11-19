@@ -1,6 +1,8 @@
 # FASTER Web Projects
 
-**A list of the City's several projects related to the FASTER Web fleet management system.**
+**A list of the City's several projects related to the [FASTER Web fleet management system](https://fasterasset.com/products/fleet-management-software/).**
+
+_All of these projects are completely unofficial and are in no way affiliated with or endorsed by FASTER Asset Solutions or Transit Technologies._
 
 ## Applications
 
