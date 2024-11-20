@@ -1,6 +1,6 @@
 # FASTER Web Projects
 
-**A list of the City's several open source projects related to the [FASTER Web fleet management system](https://fasterasset.com/products/fleet-management-software/).**
+**A list of the City of Sault Ste. Marie's several open source projects related to the [FASTER Web fleet management system (FMIS)](https://fasterasset.com/products/fleet-management-software/).**
 
 _All of these projects are completely unofficial and are in no way affiliated with or endorsed by FASTER Asset Solutions or Transit Technologies._
 
@@ -41,7 +41,7 @@ On demand exports of selected reports from the FASTER Web fleet management syste
 ![GitHub last commit](https://img.shields.io/github/last-commit/cityssm/node-faster-url-builder)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e0a774a12da546a21225/maintainability)](https://codeclimate.com/github/cityssm/node-faster-url-builder/maintainability)
 
-Builds URLs for the FASTER Web Fleet Management System.
+Builds URLs for the FASTER Web fleet management system.
 
 ### [FASTER Web Unofficial API](https://github.com/cityssm/node-faster-unofficial-api)
 
