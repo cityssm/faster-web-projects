@@ -13,10 +13,6 @@ _All of these projects are completely unofficial and are in no way affiliated wi
 
 A service to support integrations with the FASTER Web fleet management system.
 
-### [Userscripts for FASTER Web](https://cityssm.github.io/userscripts/#userscripts-for-faster-web)
-
-Web browser userscripts to help with common irks in FASTER Web.
-
 ## Node Modules Published on NPM
 
 ### [FASTER Web Report Parser](https://github.com/cityssm/node-faster-report-parser)
@@ -49,7 +45,7 @@ Builds URLs for the FASTER Web fleet management system.
 ![GitHub last commit](https://img.shields.io/github/last-commit/cityssm/node-faster-unofficial-api)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0d91e0c07b4647f628e6/maintainability)](https://codeclimate.com/github/cityssm/node-faster-unofficial-api/maintainability)
 
-An unofficial API for the FASTER Web fleet management system, relying on exported reports and complex parsers.
+An unofficial API for the FASTER Web fleet management system relying on Puppeteer scripts, exported reports, and complex parsers.
 
 ## Unpublished Node Modules
 
@@ -59,3 +55,9 @@ An unofficial API for the FASTER Web fleet management system, relying on exporte
 - Sadly restricted by a Non-Disclosure Agreement. 😔
 - _Want access?_
   If you can prove you have access to the FASTER Web APIs, collaborator access can be granted.
+
+## Other Stuff
+
+### [Userscripts for FASTER Web](https://cityssm.github.io/userscripts/#userscripts-for-faster-web)
+
+Web browser userscripts to help with common irks in FASTER Web.
